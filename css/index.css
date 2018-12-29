@@ -598,6 +598,7 @@ body {
   line-height: 0.25rem;
   background:linear-gradient(90deg,rgba(83,255,242,1) 0%,rgba(147,246,251,1) 100%);
   cursor: pointer;
+  border: 0;
 }
 /* 底部 */
 .container_footer {
